@@ -2,5 +2,5 @@
 
 Hi There!
 
-My name is VERA (Virtual Engagement Rhythm Agent).
+My name is Vera.
 How can I help you today?
